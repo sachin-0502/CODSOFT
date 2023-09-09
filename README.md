@@ -1,2 +1,2 @@
 # CODSOFT
-Internship tasks privided as Data Science intern from CodSoft
+Internship tasks provided by CodSoft for Data Science Intern 
